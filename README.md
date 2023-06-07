@@ -6,9 +6,9 @@ Achieved face detection by utilizing OpenCV, applied deep learning to detect tha
 # Steps of project 
 
 ## Data Exploration 
-- 1- Diplay some samples of the Data 
+- 1- Display some samples of the Data 
 - 2- Data Balance Check
-- 3- Split the data into trainning folder and validation folder
+- 3- Split the data into training folder and validation folder
 
 ## Building models
 
@@ -30,12 +30,12 @@ Achieved face detection by utilizing OpenCV, applied deep learning to detect tha
 # Prediction Results 
 ![image](https://github.com/ZyadSamy96/Faces-and-Glasses-Detection/assets/94635686/db4e3e99-5dde-41d8-829f-04ba8d647093)
 
-# _______________________________________________________________
+# _____________________________________________________________
 
 # Face Detection 
 ![Face Detection_GIF](https://github.com/ZyadSamy96/Faces-and-Glasses-Detection/assets/94635686/7b0bb663-5967-4c99-9197-02f4ffe8646f)
 
-# _______________________________________________________________
+# _____________________________________________________________
 
 # Face and Glasses Detection 
 
